@@ -7,3 +7,8 @@ There are a lot of leads generated in the initial stage, but only a few of them 
 X Education has appointed you to help them select the most promising leads for follow-up, i.e. the leads that are most likely to convert into paying customers.
 The Task
 Build a model to assign a score between 0 and 100 to leads which can be used by the company to target potential leads. A higher score would indicate that the lead is hot, i.e. is most likely to convert whereas a lower score would mean that the lead is cold and will mostly not get converted.
+
+
+
+A high level solution design is described in the following flowchart.
+![flow](https://user-images.githubusercontent.com/31631107/132948318-8a182631-a886-47a2-b1da-325ce1efbea7.png)
