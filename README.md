@@ -10,6 +10,7 @@ X Education has appointed you to help them select the most promising leads for f
 The Task
 Build a model to assign a score between 0 and 100 to leads which can be used by the company to target potential leads. A higher score would indicate that the lead is hot, i.e. is most likely to convert whereas a lower score would mean that the lead is cold and will mostly not get converted.
 
+![lead scoring](https://user-images.githubusercontent.com/31631107/140656599-157014af-a53e-459d-b9ea-a53ab5d1e284.jpg)
 
 
 A high level solution design is described in the following flowchart.
